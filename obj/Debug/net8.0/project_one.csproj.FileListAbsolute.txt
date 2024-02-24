@@ -1,0 +1,28 @@
+C:\Users\mathe\Área de Trabalho\project_one\project_one\bin\Debug\net8.0\project_one.exe
+C:\Users\mathe\Área de Trabalho\project_one\project_one\bin\Debug\net8.0\project_one.deps.json
+C:\Users\mathe\Área de Trabalho\project_one\project_one\bin\Debug\net8.0\project_one.runtimeconfig.json
+C:\Users\mathe\Área de Trabalho\project_one\project_one\bin\Debug\net8.0\project_one.dll
+C:\Users\mathe\Área de Trabalho\project_one\project_one\bin\Debug\net8.0\project_one.pdb
+C:\Users\mathe\Área de Trabalho\project_one\project_one\obj\Debug\net8.0\project_one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Área de Trabalho\project_one\project_one\obj\Debug\net8.0\project_one.AssemblyInfoInputs.cache
+C:\Users\mathe\Área de Trabalho\project_one\project_one\obj\Debug\net8.0\project_one.AssemblyInfo.cs
+C:\Users\mathe\Área de Trabalho\project_one\project_one\obj\Debug\net8.0\project_one.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Área de Trabalho\project_one\project_one\obj\Debug\net8.0\project_one.dll
+C:\Users\mathe\Área de Trabalho\project_one\project_one\obj\Debug\net8.0\refint\project_one.dll
+C:\Users\mathe\Área de Trabalho\project_one\project_one\obj\Debug\net8.0\project_one.pdb
+C:\Users\mathe\Área de Trabalho\project_one\project_one\obj\Debug\net8.0\project_one.genruntimeconfig.cache
+C:\Users\mathe\Área de Trabalho\project_one\project_one\obj\Debug\net8.0\ref\project_one.dll
+C:\Users\mathe\Documentos\MATHEUS\GitHub\Project_C-Sharp\bin\Debug\net8.0\project_one.exe
+C:\Users\mathe\Documentos\MATHEUS\GitHub\Project_C-Sharp\bin\Debug\net8.0\project_one.deps.json
+C:\Users\mathe\Documentos\MATHEUS\GitHub\Project_C-Sharp\bin\Debug\net8.0\project_one.runtimeconfig.json
+C:\Users\mathe\Documentos\MATHEUS\GitHub\Project_C-Sharp\bin\Debug\net8.0\project_one.dll
+C:\Users\mathe\Documentos\MATHEUS\GitHub\Project_C-Sharp\bin\Debug\net8.0\project_one.pdb
+C:\Users\mathe\Documentos\MATHEUS\GitHub\Project_C-Sharp\obj\Debug\net8.0\project_one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Documentos\MATHEUS\GitHub\Project_C-Sharp\obj\Debug\net8.0\project_one.AssemblyInfoInputs.cache
+C:\Users\mathe\Documentos\MATHEUS\GitHub\Project_C-Sharp\obj\Debug\net8.0\project_one.AssemblyInfo.cs
+C:\Users\mathe\Documentos\MATHEUS\GitHub\Project_C-Sharp\obj\Debug\net8.0\project_one.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Documentos\MATHEUS\GitHub\Project_C-Sharp\obj\Debug\net8.0\project_one.dll
+C:\Users\mathe\Documentos\MATHEUS\GitHub\Project_C-Sharp\obj\Debug\net8.0\refint\project_one.dll
+C:\Users\mathe\Documentos\MATHEUS\GitHub\Project_C-Sharp\obj\Debug\net8.0\project_one.pdb
+C:\Users\mathe\Documentos\MATHEUS\GitHub\Project_C-Sharp\obj\Debug\net8.0\project_one.genruntimeconfig.cache
+C:\Users\mathe\Documentos\MATHEUS\GitHub\Project_C-Sharp\obj\Debug\net8.0\ref\project_one.dll
